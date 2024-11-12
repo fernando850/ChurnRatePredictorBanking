@@ -51,7 +51,7 @@ To effectively analyze the factors influencing customer churn, we have grouped t
 ### Age Group Analysis
 
 <a href="https://raw.githubusercontent.com/fernando850/ChurnRatePredictorBanking/master/Images/age_group_churn.png">
-  <img src="https://raw.githubusercontent.com/fernando850/ChurnRatePredictorBanking/master/Images/age_group_churn.png" width="600" alt="Churn Percentage by Age Group">
+  <img src="https://raw.githubusercontent.com/fernando850/ChurnRatePredictorBanking/master/Images/age_group_churn.png" width="700" alt="Churn Percentage by Age Group">
 </a>
 
 
@@ -62,7 +62,7 @@ The Figure 1 provides a detailed view of churn rates across different age groups
 ### Gender and Geography Analysis
 
 <a href="https://raw.githubusercontent.com/fernando850/ChurnRatePredictorBanking/master/Images/gender_geography_churn.png">
-  <img src="https://raw.githubusercontent.com/fernando850/ChurnRatePredictorBanking/master/Images/gender_geography_churn.png" width="600" alt="Churn Percentage by Gender Across Geographies">
+  <img src="https://raw.githubusercontent.com/fernando850/ChurnRatePredictorBanking/master/Images/gender_geography_churn.png" width="700" alt="Churn Percentage by Gender Across Geographies">
 </a>
 
 **Figure 2: Churn Percentage by Gender Across Geographies**
