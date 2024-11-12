@@ -43,6 +43,27 @@ The dataset comprises several attributes related to bank customers:
 ### Size and Scope
 The dataset contains 10,000 detailed records of bank customers. It covers various aspects of customer behavior and attributes, helping to analyze trends over time in customer churn.
 
+## 3. KPI Visualizations
+To effectively analyze the factors influencing customer churn, we have grouped the visualizations into three categories. Each category highlights a different aspect of customer data, providing a layered understanding of what drives churn.
+
+### Demographic Insights
+
+### Age Group Analysis
+
+![Churn Percentage by Age Group](./Images/figure1.png)  
+**Figure 1: Churn Percentage by Age Group**  
+
+The Figure 1 provides a detailed view of churn rates across different age groups. It reveals that churn rates are particularly high in the middle age brackets, specifically the 36-45 and 56-65 age groups, where churn rates exceed 40%. This suggests that mid-life financial demands or service expectations might not be met by current banking offerings. In contrast, both younger (18-25) and older age groups (76-85) show significantly lower churn rates, indicating different banking needs or higher satisfaction levels within these demographics.
+
+### Gender and Geography Analysis
+
+![Churn Percentage by Gender Across Geographies](./Images/figure2.png)  
+**Figure 2: Churn Percentage by Gender Across Geographies**  
+
+The Figure 2 compares churn rates by gender across three different geographies: France, Spain, and Germany. Notably, churn rates for females in Germany are disproportionately high compared to their male counterparts, indicating potential dissatisfaction or unmet needs among female customers in this region. In contrast, France shows more balanced churn rates between genders but overall lower than in Germany. Spain displays a moderate churn rate with males showing slightly higher churn than females. This variation across geographies suggests that location-specific factors and possibly cultural aspects significantly influence customer retention.
+
+These insights emphasize the importance of demographic targeting and customization in banking services to address the specific needs and behaviors of different customer segments. Tailoring products and communication strategies to these insights could help mitigate churn and enhance customer loyalty.
+
 
 ### References
 
