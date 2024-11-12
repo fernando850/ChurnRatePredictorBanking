@@ -50,14 +50,14 @@ To effectively analyze the factors influencing customer churn, we have grouped t
 
 ### Age Group Analysis
 
-![Churn Percentage by Age Group](./Images/figure1.png)  
+![Churn Percentage by Age Group](./Images/age_group_churn.png)  
 **Figure 1: Churn Percentage by Age Group**  
 
 The Figure 1 provides a detailed view of churn rates across different age groups. It reveals that churn rates are particularly high in the middle age brackets, specifically the 36-45 and 56-65 age groups, where churn rates exceed 40%. This suggests that mid-life financial demands or service expectations might not be met by current banking offerings. In contrast, both younger (18-25) and older age groups (76-85) show significantly lower churn rates, indicating different banking needs or higher satisfaction levels within these demographics.
 
 ### Gender and Geography Analysis
 
-![Churn Percentage by Gender Across Geographies](./Images/figure2.png)  
+![Churn Percentage by Gender Across Geographies](./Images/gender_geography_churn.png)  
 **Figure 2: Churn Percentage by Gender Across Geographies**  
 
 The Figure 2 compares churn rates by gender across three different geographies: France, Spain, and Germany. Notably, churn rates for females in Germany are disproportionately high compared to their male counterparts, indicating potential dissatisfaction or unmet needs among female customers in this region. In contrast, France shows more balanced churn rates between genders but overall lower than in Germany. Spain displays a moderate churn rate with males showing slightly higher churn than females. This variation across geographies suggests that location-specific factors and possibly cultural aspects significantly influence customer retention.
