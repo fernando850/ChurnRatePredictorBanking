@@ -57,10 +57,11 @@ The Figure 1 provides a detailed view of churn rates across different age groups
 
 ### Gender and Geography Analysis
 
-<a href="https://github.com/fernando850/ChurnRatePredictorBanking/Images/gender_geography_churn.png">
-  <img src="https://github.com/fernando850/ChurnRatePredictorBanking/Images/gender_geography_churn.png" width="600">
+<a href="https://raw.githubusercontent.com/fernando850/ChurnRatePredictorBanking/master/Images/gender_geography_churn.png">
+  <img src="https://raw.githubusercontent.com/fernando850/ChurnRatePredictorBanking/master/Images/gender_geography_churn.png" width="600" alt="Churn Percentage by Gender Across Geographies">
 </a>
-**Figure 2: Churn Percentage by Gender Across Geographies**  
+<strong>Figure 2: Churn Percentage by Gender Across Geographies</strong>
+
 
 The Figure 2 compares churn rates by gender across three different geographies: France, Spain, and Germany. Notably, churn rates for females in Germany are disproportionately high compared to their male counterparts, indicating potential dissatisfaction or unmet needs among female customers in this region. In contrast, France shows more balanced churn rates between genders but overall lower than in Germany. Spain displays a moderate churn rate with males showing slightly higher churn than females. This variation across geographies suggests that location-specific factors and possibly cultural aspects significantly influence customer retention.
 
