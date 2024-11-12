@@ -41,7 +41,7 @@ The dataset comprises several attributes related to bank customers:
 - **Points Earned** (`int`): Points earned by the customer.
 
 ### Size and Scope
-The dataset contains detailed records for thousands of bank customers (exact number should be specified if known). It covers various aspects of customer behavior and attributes, helping to analyze trends over time in customer churn.
+The dataset contains 10,000 detailed records of bank customers. It covers various aspects of customer behavior and attributes, helping to analyze trends over time in customer churn.
 
 
 ### References
