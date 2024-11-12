@@ -51,8 +51,9 @@ To effectively analyze the factors influencing customer churn, we have grouped t
 ### Age Group Analysis
 
 <a href="https://raw.githubusercontent.com/fernando850/ChurnRatePredictorBanking/master/Images/age_group_churn.png">
-  <img src="https://raw.githubusercontent.com/fernando850/ChurnRatePredictorBanking/master/Images/age_group_churn.png.png" width="600" alt="Churn Percentage by Age Group">
+  <img src="https://raw.githubusercontent.com/fernando850/ChurnRatePredictorBanking/master/Images/age_group_churn.png" width="600" alt="Churn Percentage by Age Group">
 </a>
+
 
 **Figure 1: Churn Percentage by Age Group**  
 
