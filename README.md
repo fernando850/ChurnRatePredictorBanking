@@ -1,8 +1,10 @@
-## Introduction
+## 1. Project Overview
+
+### Introduction
 
 This project explores and analyzes customer churn data to uncover underlying patterns and factors that lead to customer attrition. Customer churn refers to the rate at which customers stop doing business with a company. Understanding and predicting customer churn is crucial for businesses as it significantly impacts profitability. Research shows that acquiring a new customer can be anywhere from five to 25 times more expensive than retaining an existing one (Gallo, 2014). Furthermore, a study by Frederick Reichheld of Bain & Company reveals that increasing customer retention rates by 5% increases profits by 25% to 95%, underscoring the substantial impact of effective retention strategies (Gallo, 2014).
 
-## Objectives
+### Objectives
 
 The primary goals of this project are to:
 
@@ -12,30 +14,34 @@ The primary goals of this project are to:
 
 These objectives aim to equip businesses with better tools to improve their customer retention strategies, thereby enhancing their overall profitability.
 
-## Dataset Description
+## 2. Dataset Description
 
-The dataset used in this project includes several features that may influence customer churn in the banking sector. Here is an overview of each feature:
+### Source
+This dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn). It provides insights into customer churn at a bank.
 
-- **RowNumber**: The record number, irrelevant to the output.
-- **CustomerId**: Random values, irrelevant to the output.
-- **Surname**: Irrelevant to the customer's decision to leave.
-- **CreditScore**: Higher scores may indicate lower likelihood of churn.
-- **Geography**: Customer location, which could influence churn.
-- **Gender**: To explore if gender affects churn.
-- **Age**: Older customers are generally more loyal.
-- **Tenure**: Length of the customer's relationship with the bank.
-- **Balance**: Higher balances may correspond to lower churn.
-- **NumOfProducts**: Number of bank products the customer uses.
-- **HasCrCard**: Indicates if a customer has a credit card.
-- **IsActiveMember**: Active customers are less likely to churn.
-- **EstimatedSalary**: Higher salaries may correlate with lower churn.
-- **Exited**: Indicates whether the customer has left the bank.
-- **Complain**: Whether the customer has registered a complaint.
-- **Satisfaction Score**: Reflects customer satisfaction with complaint resolution.
-- **Card Type**: Type of card held by the customer.
-- **Points Earned**: Points a customer has earned by using their credit card.
+### Features
+The dataset comprises several attributes related to bank customers:
+- **RowNumber** (`int`): The record number, irrelevant to the output.
+- **CustomerId** (`int`): Random values, irrelevant to the output.
+- **Surname** (`string`): Irrelevant to the customer's decision to leave.
+- **CreditScore** (`int`): Customer's credit score.
+- **Geography** (`string`): The customer's location.
+- **Gender** (`string`): The customer's gender.
+- **Age** (`int`): The customer's age.
+- **Tenure** (`int`): Number of years the customer has been with the bank.
+- **Balance** (`float`): Account balance.
+- **NumOfProducts** (`int`): Number of products the customer has with the bank.
+- **HasCrCard** (`int`): Whether the customer has a credit card.
+- **IsActiveMember** (`int`): Whether the customer is an active member.
+- **EstimatedSalary** (`float`): The estimated salary of the customer.
+- **Exited** (`int`): Whether the customer has left the bank.
+- **Complain** (`int`): Whether the customer has registered a complaint.
+- **Satisfaction Score** (`int`): Customer's satisfaction score.
+- **Card Type** (`string`): Type of card held by the customer.
+- **Points Earned** (`int`): Points earned by the customer.
 
-This dataset can be accessed on [Kaggle](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn).
+### Size and Scope
+The dataset contains detailed records for thousands of bank customers (exact number should be specified if known). It covers various aspects of customer behavior and attributes, helping to analyze trends over time in customer churn.
 
 
 ### References
