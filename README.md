@@ -12,6 +12,31 @@ The primary goals of this project are to:
 
 These objectives aim to equip businesses with better tools to improve their customer retention strategies, thereby enhancing their overall profitability.
 
+## Dataset Description
+
+The dataset used in this project includes several features that may influence customer churn in the banking sector. Here is an overview of each feature:
+
+- **RowNumber**: The record number, irrelevant to the output.
+- **CustomerId**: Random values, irrelevant to the output.
+- **Surname**: Irrelevant to the customer's decision to leave.
+- **CreditScore**: Higher scores may indicate lower likelihood of churn.
+- **Geography**: Customer location, which could influence churn.
+- **Gender**: To explore if gender affects churn.
+- **Age**: Older customers are generally more loyal.
+- **Tenure**: Length of the customer's relationship with the bank.
+- **Balance**: Higher balances may correspond to lower churn.
+- **NumOfProducts**: Number of bank products the customer uses.
+- **HasCrCard**: Indicates if a customer has a credit card.
+- **IsActiveMember**: Active customers are less likely to churn.
+- **EstimatedSalary**: Higher salaries may correlate with lower churn.
+- **Exited**: Indicates whether the customer has left the bank.
+- **Complain**: Whether the customer has registered a complaint.
+- **Satisfaction Score**: Reflects customer satisfaction with complaint resolution.
+- **Card Type**: Type of card held by the customer.
+- **Points Earned**: Points a customer has earned by using their credit card.
+
+
+
 ### References
 
 - Gallo, A. (2014). The Value of Keeping the Right Customers. Harvard Business Review. Retrieved from [https://hbr.org/2014/10/the-value-of-keeping-the-right-customers](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers).
