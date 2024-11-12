@@ -35,7 +35,7 @@ The dataset used in this project includes several features that may influence cu
 - **Card Type**: Type of card held by the customer.
 - **Points Earned**: Points a customer has earned by using their credit card.
 
-This dataset can be accessed and downloaded on [Kaggle](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn).
+This dataset can be accessed on [Kaggle](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn).
 
 
 ### References
