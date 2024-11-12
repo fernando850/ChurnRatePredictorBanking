@@ -50,7 +50,10 @@ To effectively analyze the factors influencing customer churn, we have grouped t
 
 ### Age Group Analysis
 
-![Churn Percentage by Age Group](./Images/age_group_churn.png)  
+<a href="https://raw.githubusercontent.com/fernando850/ChurnRatePredictorBanking/master/Images/age_group_churn.png">
+  <img src="https://raw.githubusercontent.com/fernando850/ChurnRatePredictorBanking/master/Images/age_group_churn.png.png" width="600" alt="Churn Percentage by Age Group">
+</a>
+
 **Figure 1: Churn Percentage by Age Group**  
 
 The Figure 1 provides a detailed view of churn rates across different age groups. It reveals that churn rates are particularly high in the middle age brackets, specifically the 36-45 and 56-65 age groups, where churn rates exceed 40%. This suggests that mid-life financial demands or service expectations might not be met by current banking offerings. In contrast, both younger (18-25) and older age groups (76-85) show significantly lower churn rates, indicating different banking needs or higher satisfaction levels within these demographics.
